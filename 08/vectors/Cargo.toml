@@ -1,0 +1,6 @@
+[package]
+name = "vectors"
+version = "0.1.0"
+authors = ["Junyoung Clare Jang <jjc9310@gmail.com>"]
+
+[dependencies]
