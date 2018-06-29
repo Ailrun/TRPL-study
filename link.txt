@@ -1,0 +1,3 @@
+Homepage: https://doc.rust-lang.org/book/
+Github: https://github.com/rust-lang/book
+HTML: https://doc.rust-lang.org/book/second-edition/foreword.html
