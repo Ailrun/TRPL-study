@@ -1,0 +1,6 @@
+[package]
+name = "the_twelve_days_of_christmas"
+version = "0.1.0"
+authors = ["Junyoung Clare Jang <jjc9310@gmail.com>"]
+
+[dependencies]
